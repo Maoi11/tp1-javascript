@@ -1,1 +1,1 @@
-document.write("Un mensaje");
+alert("Un mensaje");
